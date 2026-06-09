@@ -1,6 +1,4 @@
-# CSULA Graduate School Projects
-
-This repository contains a collection of academic projects, research papers, presentations, and technical analyses completed as part of graduate studies at California State University, Los Angeles (CSULA).
+# This repository contains a collection of academic projects, research papers, presentations, and technical analyses in Big Data and Database Design for Computer Information Systems.
 
 ## Contents
 
@@ -43,13 +41,10 @@ The purpose of this repository is to preserve and showcase graduate-level course
 * Information Systems
 * Technology Research
 
-## Disclaimer
-
-These materials were created for academic purposes as part of graduate studies at California State University, Los Angeles. They are provided as examples of coursework, research, and technical analysis completed during the program.
 
 ## Author
 
 **Greg Mamoyac**
 
-Graduate Studies
-California State University, Los Angeles
+
+
