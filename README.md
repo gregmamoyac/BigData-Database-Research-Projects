@@ -1,9 +1,9 @@
 ## Contents
-#### This repository contains a collection of academic projects, research papers, presentations, and technical analyses in Big Data and Database Design for Computer Information Systems.
+####This repository contains a collection of academic projects, research papers, presentations, and technical analyses in Big Data and Database Design for Computer Information Systems.
 
 ### Big Data Analytics
 
-* Hadoop Big Data Analysis of the Los Angeles Police Department
+* Hadoop Big Data Analysis of the Los Angeles Police Department 
 
   * Research paper
   * Presentation slides
